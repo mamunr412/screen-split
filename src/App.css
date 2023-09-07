@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap");
+
+button {
+  font-family: "Roboto", "Segoe UI", Tahoma, "Geneva", Verdana, sans-serif;
+  font-size: 10pt;
+}
+
+div {
+  box-sizing: border-box;
+}
